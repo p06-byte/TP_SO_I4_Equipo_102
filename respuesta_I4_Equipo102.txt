@@ -10,3 +10,16 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 Azul
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 Los dos
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Sí
+F- ¿Qué problemas surgieron?
+No estaba actualizado el archivo que queríamos cambiar
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Había que aceptar los cambios y hacer un pull antes de hacer el push
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Nos vamos pisando los cambios mutuamente
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Tengo que ir aceptando los cambios de a poco y haciendo pulls
